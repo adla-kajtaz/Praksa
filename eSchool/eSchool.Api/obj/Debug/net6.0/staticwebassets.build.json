@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mngoy89oRkqG+Xk7BEHctfcTnMRXgp3MZuGM6ftpeeo=",
+  "Source": "eSchool.Api",
+  "BasePath": "_content/eSchool.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+D:\Adla\Praksa\eSchool\eSchool.Service\bin\Debug\net6.0\eSchool.Service.deps.json
+D:\Adla\Praksa\eSchool\eSchool.Service\bin\Debug\net6.0\eSchool.Service.dll
+D:\Adla\Praksa\eSchool\eSchool.Service\bin\Debug\net6.0\eSchool.Service.pdb
+D:\Adla\Praksa\eSchool\eSchool.Service\bin\Debug\net6.0\eSchool.Core.dll
+D:\Adla\Praksa\eSchool\eSchool.Service\bin\Debug\net6.0\eSchool.Infrastructure.dll
+D:\Adla\Praksa\eSchool\eSchool.Service\bin\Debug\net6.0\eSchool.Infrastructure.pdb
+D:\Adla\Praksa\eSchool\eSchool.Service\bin\Debug\net6.0\eSchool.Core.pdb
+D:\Adla\Praksa\eSchool\eSchool.Service\obj\Debug\net6.0\eSchool.Service.csproj.AssemblyReference.cache
+D:\Adla\Praksa\eSchool\eSchool.Service\obj\Debug\net6.0\eSchool.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Adla\Praksa\eSchool\eSchool.Service\obj\Debug\net6.0\eSchool.Service.AssemblyInfoInputs.cache
+D:\Adla\Praksa\eSchool\eSchool.Service\obj\Debug\net6.0\eSchool.Service.AssemblyInfo.cs
+D:\Adla\Praksa\eSchool\eSchool.Service\obj\Debug\net6.0\eSchool.Service.csproj.CoreCompileInputs.cache
+D:\Adla\Praksa\eSchool\eSchool.Service\obj\Debug\net6.0\eSchool.Service.csproj.CopyComplete
+D:\Adla\Praksa\eSchool\eSchool.Service\obj\Debug\net6.0\eSchool.Service.dll
+D:\Adla\Praksa\eSchool\eSchool.Service\obj\Debug\net6.0\refint\eSchool.Service.dll
+D:\Adla\Praksa\eSchool\eSchool.Service\obj\Debug\net6.0\eSchool.Service.pdb
+D:\Adla\Praksa\eSchool\eSchool.Service\obj\Debug\net6.0\ref\eSchool.Service.dll
