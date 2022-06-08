@@ -10,8 +10,8 @@ namespace eSchool.Service.Services
 {
     public class SubjectService : ISubjectService
     {
-        SubjectRepository _repository;
-        public SubjectService(SubjectRepository repository)
+        ISubjectRepository _repository;
+        public SubjectService(ISubjectRepository repository)
         {
             _repository = repository;    
         }

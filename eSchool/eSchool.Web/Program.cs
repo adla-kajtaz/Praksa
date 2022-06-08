@@ -1,6 +1,7 @@
 using eSchool.Infrastructure;
 using eSchool.Service.Services;
 using Microsoft.EntityFrameworkCore;
+using eSchool.Infrastructure.UnitOfWork;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +11,11 @@ builder.Services.AddControllersWithViews();
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<DatabaseContext>(options => options.UseNpgsql(connectionString));
 
-//builder.Services.AddScoped<ISubjectService, SubjectService>();
+builder.Services.AddScoped<ISubjectService, SubjectService>();
+builder.Services.AddScoped<ISubjectRepository, SubjectRepository>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork<SubjectRepository>>();
+
+
 
 
 
