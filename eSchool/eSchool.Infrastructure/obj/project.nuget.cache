@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nHTDz78dvbksfWcYVGxDFfKyXUCQxs7AyoDoesETkL+2NopuJVdx39w8ZtrAQfxVVsHE+sZZj2dOaOiNAWtn+Q==",
+  "dgSpecHash": "O+cJrscnlNZ7/xuxSVI3L9ujX8Jsj998jrpKaWUzwNvJXi6CjUAeMWcIY6b7RI3wQR17WPD31JIlbjym4IKaMw==",
   "success": true,
-  "projectFilePath": "D:\\Adla\\Praksa\\eSchool\\eSchool.Infrastructure\\eSchool.Infrastructure.csproj",
+  "projectFilePath": "D:\\Github\\Praksa\\eSchool\\eSchool.Infrastructure\\eSchool.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",

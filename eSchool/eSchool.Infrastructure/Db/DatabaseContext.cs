@@ -19,7 +19,7 @@ namespace eSchool.Infrastructure
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            var subject = (List<Subject>)modelBuilder.Model;
+            //var subject = (List<Subject>)modelBuilder.Model;
             //SeedData(subject);
             base.OnModelCreating(modelBuilder);
         }

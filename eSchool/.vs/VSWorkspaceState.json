@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
     "",
+    "\\eSchool.Infrastructure",
+    "\\eSchool.Infrastructure\\UnitOfWork",
     "\\eSchool.Web",
     "\\eSchool.Web\\Controllers"
   ],

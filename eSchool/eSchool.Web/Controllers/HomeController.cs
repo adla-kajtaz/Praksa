@@ -18,7 +18,7 @@ namespace eSchool.Web.Controllers
 
         public IActionResult Index()
         {
-            //var predmet = _subjectService.GetByName("Matematika");
+           // var predmet = _subjectService.GetByName("Matematika");
             return View();
         }
 

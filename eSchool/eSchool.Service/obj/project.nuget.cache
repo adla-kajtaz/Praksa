@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XpaKQDld6HzLTc5KKGgo1w3uvBUrbjVmrGjZMiDLbsi56b+jN+D83eqaLVpLO3waXL8UR38asH5H6J7UOrGUbQ==",
+  "dgSpecHash": "VzVmKqgGVgDUlIfPCdd3Y7jteUde8bnlcOgVcA7vEvIVwkPAjQk+XyIrk0X2BR1wkzTrvLdQS0HETLnd9zKA2g==",
   "success": true,
-  "projectFilePath": "D:\\Adla\\Praksa\\eSchool\\eSchool.Service\\eSchool.Service.csproj",
+  "projectFilePath": "D:\\Github\\Praksa\\eSchool\\eSchool.Service\\eSchool.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.5\\microsoft.entityframeworkcore.abstractions.6.0.5.nupkg.sha512",

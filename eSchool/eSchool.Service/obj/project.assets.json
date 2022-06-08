@@ -565,11 +565,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Adla\\Praksa\\eSchool\\eSchool.Service\\eSchool.Service.csproj",
+      "projectUniqueName": "D:\\Github\\Praksa\\eSchool\\eSchool.Service\\eSchool.Service.csproj",
       "projectName": "eSchool.Service",
-      "projectPath": "D:\\Adla\\Praksa\\eSchool\\eSchool.Service\\eSchool.Service.csproj",
+      "projectPath": "D:\\Github\\Praksa\\eSchool\\eSchool.Service\\eSchool.Service.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Adla\\Praksa\\eSchool\\eSchool.Service\\obj\\",
+      "outputPath": "D:\\Github\\Praksa\\eSchool\\eSchool.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -592,8 +592,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Adla\\Praksa\\eSchool\\eSchool.Infrastructure\\eSchool.Infrastructure.csproj": {
-              "projectPath": "D:\\Adla\\Praksa\\eSchool\\eSchool.Infrastructure\\eSchool.Infrastructure.csproj"
+            "D:\\Github\\Praksa\\eSchool\\eSchool.Infrastructure\\eSchool.Infrastructure.csproj": {
+              "projectPath": "D:\\Github\\Praksa\\eSchool\\eSchool.Infrastructure\\eSchool.Infrastructure.csproj"
             }
           }
         }
