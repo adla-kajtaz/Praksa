@@ -21,6 +21,7 @@ namespace eSchool.Infrastructure
         {
             //var subject = (List<Subject>)modelBuilder.Model;
             //SeedData(subject);
+            SeedData(modelBuilder);
             base.OnModelCreating(modelBuilder);
         }
 

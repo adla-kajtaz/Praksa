@@ -10,13 +10,27 @@ namespace eSchool.Infrastructure
 {
     public partial class DatabaseContext
     {
-        private void SeedData(List<Subject> subject)
+        /*private void SeedData(List<Subject> subject)
         {
             subject.Add(new Subject
             {
-                Name = "Test",
+                Id = 1,
+                Name = "Matematika",
                 ECTS = 7,
-                NumberOfHours = 2
+                NumberOfHours = 2,
+                IsDeleted = false
+            });
+        }*/
+
+        private void SeedData(ModelBuilder subject)
+        {
+            subject.Entity<Subject>().HasData(new Subject
+            {
+                Id = 1,
+                Name = "Matematika",
+                ECTS = 7,
+                NumberOfHours = 2,
+                IsDeleted = false
             });
         }
     }

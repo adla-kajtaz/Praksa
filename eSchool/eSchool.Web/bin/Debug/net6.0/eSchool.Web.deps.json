@@ -180,6 +180,8 @@
       "eSchool.Infrastructure/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.5",
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.5",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.4",
           "eSchool.Core": "1.0.0"
         },
         "runtime": {

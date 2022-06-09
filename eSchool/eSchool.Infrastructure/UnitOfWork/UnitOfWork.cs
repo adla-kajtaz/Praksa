@@ -10,11 +10,13 @@ namespace eSchool.Infrastructure.UnitOfWork
     public class UnitOfWork<TEntity> : IUnitOfWork where TEntity : class
     {
         protected DatabaseContext _dbContext;
-        protected DbSet<TEntity> _dbSet;
+        public ISubjectRepository _SubjectRepository { get; set; }
+        //protected DbSet<TEntity> _dbSet;
 
-        public UnitOfWork(DatabaseContext dbContext)
+        public UnitOfWork(DatabaseContext dbContext, ISubjectRepository SubjectRepository)
         {
             _dbContext = dbContext;
+            _SubjectRepository = SubjectRepository;
         }
 
         public void Begin()

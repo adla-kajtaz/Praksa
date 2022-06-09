@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "O+cJrscnlNZ7/xuxSVI3L9ujX8Jsj998jrpKaWUzwNvJXi6CjUAeMWcIY6b7RI3wQR17WPD31JIlbjym4IKaMw==",
+  "dgSpecHash": "ShPuwPDEGTdkctmziDFNkwgHEl6gjdyZDeor0pleYDnbxF2a6KOERTvXjGIki/8bsBVDABDqlVPY4bu3nStW1w==",
   "success": true,
   "projectFilePath": "D:\\Github\\Praksa\\eSchool\\eSchool.Infrastructure\\eSchool.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,8 @@
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.4\\npgsql.entityframeworkcore.postgresql.6.0.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"

@@ -11,6 +11,7 @@ namespace eSchool.Infrastructure.UnitOfWork
         public void Commit();
         public void Roolback();
         public void Begin();
-        
+        public ISubjectRepository _SubjectRepository { get; set; }
+
     }
 }
