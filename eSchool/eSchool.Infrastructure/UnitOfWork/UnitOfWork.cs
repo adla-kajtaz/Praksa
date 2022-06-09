@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace eSchool.Infrastructure.UnitOfWork
 {
-    public class UnitOfWork<TEntity> : IUnitOfWork where TEntity : class
+    public class UnitOfWork : IUnitOfWork 
     {
         protected DatabaseContext _dbContext;
         public ISubjectRepository _SubjectRepository { get; set; }
-        //protected DbSet<TEntity> _dbSet;
+        
 
         public UnitOfWork(DatabaseContext dbContext, ISubjectRepository SubjectRepository)
         {

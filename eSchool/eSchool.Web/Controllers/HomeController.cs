@@ -9,20 +9,20 @@ namespace eSchool.Web.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        //private readonly ISubjectService _subjectService;
-        private readonly IUnitOfWork _unitOfWork;
+        private readonly ISubjectService _subjectService;
+        
 
-        public HomeController(ILogger<HomeController> logger,IUnitOfWork unitOfWork)
+        public HomeController(ILogger<HomeController> logger, ISubjectService subjectService)
         {
             _logger = logger;
-            _unitOfWork = unitOfWork;
-            //_subjectService = subjectService;
+            
+            _subjectService = subjectService;
         }
 
         public IActionResult Index()
         {
-            // var predmet = _subjectService.GetByName("Matematika");
-            var predmet = _unitOfWork._SubjectRepository.GetByName("Matematika");
+           
+            var predmet =_subjectService.GetByName("Matematika");
             return View(predmet);
         }
 

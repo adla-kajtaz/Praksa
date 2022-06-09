@@ -18,3 +18,15 @@ D:\Github\Praksa\eSchool\eSchool.Core\obj\Debug\net6.0\eSchool.Core.csproj.CoreC
 D:\Github\Praksa\eSchool\eSchool.Core\obj\Debug\net6.0\eSchool.Core.dll
 D:\Github\Praksa\eSchool\eSchool.Core\obj\Debug\net6.0\ref\eSchool.Core.dll
 D:\Github\Praksa\eSchool\eSchool.Core\obj\Debug\net6.0\eSchool.Core.pdb
+C:\Users\User\Source\Repos\Praksa\eSchool\eSchool.Core\bin\Debug\net6.0\eSchool.Core.deps.json
+C:\Users\User\Source\Repos\Praksa\eSchool\eSchool.Core\bin\Debug\net6.0\eSchool.Core.dll
+C:\Users\User\Source\Repos\Praksa\eSchool\eSchool.Core\bin\Debug\net6.0\ref\eSchool.Core.dll
+C:\Users\User\Source\Repos\Praksa\eSchool\eSchool.Core\bin\Debug\net6.0\eSchool.Core.pdb
+C:\Users\User\Source\Repos\Praksa\eSchool\eSchool.Core\obj\Debug\net6.0\eSchool.Core.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Praksa\eSchool\eSchool.Core\obj\Debug\net6.0\eSchool.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\Praksa\eSchool\eSchool.Core\obj\Debug\net6.0\eSchool.Core.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Praksa\eSchool\eSchool.Core\obj\Debug\net6.0\eSchool.Core.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Praksa\eSchool\eSchool.Core\obj\Debug\net6.0\eSchool.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Praksa\eSchool\eSchool.Core\obj\Debug\net6.0\eSchool.Core.dll
+C:\Users\User\Source\Repos\Praksa\eSchool\eSchool.Core\obj\Debug\net6.0\ref\eSchool.Core.dll
+C:\Users\User\Source\Repos\Praksa\eSchool\eSchool.Core\obj\Debug\net6.0\eSchool.Core.pdb

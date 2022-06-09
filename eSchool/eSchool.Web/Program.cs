@@ -13,7 +13,7 @@ builder.Services.AddDbContext<DatabaseContext>(options => options.UseNpgsql(conn
 
 builder.Services.AddScoped<ISubjectService, SubjectService>();
 builder.Services.AddScoped<ISubjectRepository, SubjectRepository>();
-builder.Services.AddScoped<IUnitOfWork, UnitOfWork<SubjectRepository>>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 
 

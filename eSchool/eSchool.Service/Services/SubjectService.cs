@@ -5,20 +5,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using eSchool.Infrastructure.UnitOfWork;
 
 namespace eSchool.Service.Services
 {
     public class SubjectService : ISubjectService
     {
-        ISubjectRepository _repository;
-        public SubjectService(ISubjectRepository repository)
+        UnitOfWork _unitOfWork;
+        public SubjectService(IUnitOfWork unitOfWork)
         {
-            _repository = repository;    
+            _unitOfWork = (UnitOfWork)unitOfWork;   
         }
         
         public SubjectDto GetByName(string name)
         {
-            return _repository.GetByName(name);    
+            return _unitOfWork._SubjectRepository.GetByName(name);    
         }
     }
 }
